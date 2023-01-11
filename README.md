@@ -3,6 +3,8 @@ Real Time (live) - Date and Time using c, it's look like javascript loop date ti
 
 # Build
 ```
+git clone https://github.com/TuberBoy/RealTime.git
+cd RealTime
 cc -o dt main.c
 ./dt
 ```
