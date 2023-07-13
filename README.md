@@ -8,3 +8,5 @@ cd RealTime
 cc -o dt main.c
 ./dt
 ```
+
+<img src="./demo_dt.gif"/>
