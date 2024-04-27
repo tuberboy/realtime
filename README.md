@@ -1,5 +1,7 @@
 # RealTime
-Real Time (live) - Date and Time using c, it's look like javascript loop date time
+Real Time (live) - Date and Time using c and also in php, it's look like javascript loop date time
+
+* only works on terminal or on any command line interface
 
 # Build
 ```
